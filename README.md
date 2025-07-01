@@ -2,16 +2,14 @@
 
 The RoadTool hasn't been updated to the new DevkitSelection System, this Module changes that.
 
-## Overview
-
-**RoadSelectionTool** hooks into Unturned's editor environment and initializes a custom tool when the editor loads a level. It uses Harmony for patching.
-
 ## Features
 
 - Selection box for road nodes
 - Delete every selected node
 - Move every selected node with the primary node as the pivot
 - Integrates well with EditorHelper and Breakdown.
+
+https://github.com/user-attachments/assets/878d50aa-d1bf-4086-bf1c-8fd86d26ca31
 
 ## How It Works
 
