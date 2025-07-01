@@ -8,6 +8,8 @@ The RoadTool hasn't been updated to the new DevkitSelection System, this Module 
 ## How It Works
 
 - Hold down the Mouse Scrollwheel (Middle Mouse Button) to begin selecting.
+- Hold shift to select additional nodes.
+- Press Delete to delete every node in the selection.
 
 ## Features
 
