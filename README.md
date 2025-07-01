@@ -1,5 +1,8 @@
 # RoadSelectionTool
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+
 The RoadTool hasn't been updated to the new DevkitSelection System, this Module changes that.
 
 ## How It Works
