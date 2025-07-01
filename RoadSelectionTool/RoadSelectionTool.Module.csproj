@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+        <Nullable>enable</Nullable>
+        <LangVersion>preview</LangVersion>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+        <RootNamespace>RoadSelectionTool</RootNamespace>
+    </PropertyGroup>
+
+      <ItemGroup>
+    <PackageReference Include="AssetsTools.NET" Version="3.0.0" />
+    <PackageReference Include="AssetsTools.NET.Texture" Version="1.0.0" />
+    <PackageReference Include="Breakdown.Tools" Version="1.24.9" />
+    <PackageReference Include="DanielWillett.ReflectionTools" Version="3.2.0" />
+    <PackageReference Include="DanielWillett.ReflectionTools.Harmony" Version="3.0.0" />
+    <PackageReference Include="DanielWillett.StackCleaner" Version="1.4.2" />
+    <PackageReference Include="Lib.Harmony" Version="2.3.3" />
+    <PackageReference Include="RocketModFix.UnityEngine.Redist" Version="2021.3.29.1" />
+    <PackageReference Include="RocketModFix.Unturned.Redist.Client-Preview" Version="3.25.7.113" />
+  </ItemGroup>
+
+</Project>
