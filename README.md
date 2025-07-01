@@ -8,8 +8,9 @@ The RoadTool hasn't been updated to the new DevkitSelection System, this Module 
 
 ## Features
 
-- Automatically loads when Unturned's map editor starts.
-- Initializes a `RoadSelectionTool` component in the editor scene.
+- Selection box for road nodes
+- Delete every selected node
+- Move every selected node with the primary node as the pivot
 - Integrates well with EditorHelper and Breakdown.
 
 ## How It Works
